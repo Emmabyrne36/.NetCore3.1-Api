@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emma\\Documents\\Computer Science Notes\\My Projects\\DatingApp\\Dating_App_New\\DatingApp.API\\DatingApp.API.csproj": {}
+    "c:\\Users\\Emma\\Documents\\Computer Science Notes\\My Projects\\DatingApp\\Dating_App_New\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emma\\Documents\\Computer Science Notes\\My Projects\\DatingApp\\Dating_App_New\\DatingApp.API\\DatingApp.API.csproj": {
+    "c:\\Users\\Emma\\Documents\\Computer Science Notes\\My Projects\\DatingApp\\Dating_App_New\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emma\\Documents\\Computer Science Notes\\My Projects\\DatingApp\\Dating_App_New\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "c:\\Users\\Emma\\Documents\\Computer Science Notes\\My Projects\\DatingApp\\Dating_App_New\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "C:\\Users\\Emma\\Documents\\Computer Science Notes\\My Projects\\DatingApp\\Dating_App_New\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "c:\\Users\\Emma\\Documents\\Computer Science Notes\\My Projects\\DatingApp\\Dating_App_New\\DatingApp.API\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\Emma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emma\\Documents\\Computer Science Notes\\My Projects\\DatingApp\\Dating_App_New\\DatingApp.API\\obj\\",
+        "outputPath": "c:\\Users\\Emma\\Documents\\Computer Science Notes\\My Projects\\DatingApp\\Dating_App_New\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -52,6 +52,14 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[3.1.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
             }
           },
           "imports": [
